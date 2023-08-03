@@ -1,4 +1,4 @@
 # newprojectrepo
 
-![Alt text](/screenshotsproject/Screenshot from 2023-08-03 23-53-30.png?raw=true "Optional Title")
+![Alt text](https://raw.githubusercontent.com/itzm416/newprojectrepo/master/screenshotsproject/Screenshot%20from%202023-08-03%2023-53-30.png "Optional title")
 
